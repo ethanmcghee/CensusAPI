@@ -14,6 +14,7 @@ python3 census.py \
     --out pop_shp/tract2010.shp
 
 Resources:
+    
     Shapefiles: https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2020&layergroup=Census+Tracts
     
     Decennial Census
